@@ -296,9 +296,10 @@ We maintain the highest standards of academic integrity and project management:
 ### 🌟 Core Team
 
 <!-- Add actual contributor avatars here -->
-<a href="https://github.com/Safe-Roads/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Safe-Roads />
+<a href="https://github.com/Safe-Roads/pothole-detection-model/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Safe-Roads/pothole-detection-model" />
 </a>
+
 
 </div>
 
