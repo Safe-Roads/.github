@@ -1,6 +1,6 @@
 <div align="center">
 
-![Safe Roads Banner](https://via.placeholder.com/1200x300/2E7D32/FFFFFF?text=Safe-Roads+%7C+AI-Powered+Road+Infrastructure+Monitoring)
+![Safe Roads Banner](https://github.com/Safe-Roads/.github/blob/main/profile/banner.png)
 
 # 🛣️ Safe-Roads
 ### ML-Based Road Infrastructure Monitoring Lab
@@ -54,7 +54,7 @@ To extend **Safe-Roads** into a comprehensive, scalable ML-based solution that s
 
 <div align="center">
 
-![Dataset Visualization](https://via.placeholder.com/800x400/1976D2/FFFFFF?text=Dataset+Distribution+Visualization)
+![Dataset Visualization](https://github.com/Safe-Roads/.github/blob/main/profile/dataset.jpeg)
 
 </div>
 
@@ -106,7 +106,7 @@ graph LR
 
 <div align="center">
 
-![Model Architecture](https://via.placeholder.com/900x400/4CAF50/FFFFFF?text=CNN+Architecture+Diagram)
+![Model Architecture](https://github.com/Safe-Roads/.github/blob/main/profile/model_architecture.png)
 
 </div>
 
@@ -127,8 +127,7 @@ graph LR
 
 <div align="center">
 
-![Confusion Matrix](https://via.placeholder.com/400x400/E91E63/FFFFFF?text=Confusion+Matrix)
-![Training Curves](https://via.placeholder.com/600x400/9C27B0/FFFFFF?text=Training+%26+Validation+Curves)
+![Confusion Matrix](https://github.com/Safe-Roads/.github/blob/main/profile/confusion_matrix_v2.png)
 
 </div>
 
@@ -245,21 +244,18 @@ gantt
 - [ ] Concrete road surface training
 - [ ] Gravel/unpaved road detection
 - [ ] Brick paved road classification
-- [ ] Weather condition adaptability
 - [ ] Enhanced data augmentation
 
 #### 🔮 **Phase 3** – Real-Time Deployment (PLANNED)
 - [ ] Video stream processing
 - [ ] Real-time inference optimization
-- [ ] Mobile application development
-- [ ] Edge device deployment (Raspberry Pi, Jetson Nano)
+- [ ] Navigation application development
 - [ ] GPS integration for location tracking
 
 #### 🚀 **Phase 4** – Navigation Dashboard & Integration (FUTURE)
 - [ ] Web-based monitoring dashboard
 - [ ] RESTful API development
 - [ ] Geographic visualization (maps integration)
-- [ ] Municipal system integration
 - [ ] Automated reporting system
 
 ---
@@ -301,7 +297,7 @@ We maintain the highest standards of academic integrity and project management:
 
 <!-- Add actual contributor avatars here -->
 <a href="https://github.com/Safe-Roads/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Safe-Roads/pothole-detection-model" />
+  <img src="https://contrib.rocks/image?repo=Safe-Roads />
 </a>
 
 </div>
@@ -318,7 +314,7 @@ We welcome contributions from researchers, developers, and road safety enthusias
 
 [![GitHub](https://img.shields.io/badge/GitHub-Safe--Roads-181717?style=for-the-badge&logo=github)](https://github.com/Safe-Roads)
 [![Website](https://img.shields.io/badge/Website-Coming_Soon-2E7D32?style=for-the-badge&logo=google-chrome&logoColor=white)](https://safe-roads.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@safe-roads.org)
+[![Email](https://img.shields.io/badge/Email-Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@om.khalane24@pccoepune.org)
 
 </div>
 
@@ -348,11 +344,6 @@ This project is maintained for research and educational purposes.
 ![GitHub Org's stars](https://img.shields.io/github/stars/Safe-Roads?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Safe-Roads?style=social)
 
-### 📈 Activity Overview
-
-![Activity Graph](https://via.placeholder.com/1000x200/37474F/FFFFFF?text=Organization+Activity+Graph)
-
-</div>
 
 ---
 
