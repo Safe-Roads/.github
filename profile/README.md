@@ -1,6 +1,8 @@
 <div align="center">
 
+![Safe Roads Banner](https://github.com/Safe-Roads/.github/blob/main/profile/banner2.png)
 ![Safe Roads Banner](https://github.com/Safe-Roads/.github/blob/main/profile/banner.png)
+
 
 # 🛣️ Safe-Roads
 ### ML-Based Road Infrastructure Monitoring Lab
